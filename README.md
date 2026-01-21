@@ -18,6 +18,7 @@
 ---
 
 ## 🔥 News
+- **[01/20/2026]** **SimpleMem is now available on PyPI!** 📦 You can now install SimpleMem directly via `pip install simplemem` for easier setup and integration.
 - **[01/19/2026]** **Added Local Memory Storage for SimpleMem Skill!** 💾 SimpleMem Skill now supports local memory storage, enabling seamless memory retention and management directly within Claude Skills.
 - **[01/18/2026]** **SimpleMem now supports Claude Skills!** 🚀 Use SimpleMem in claude.ai to remember long-term information and project history across conversations. Register at [mcp.simplemem.cloud](https://mcp.simplemem.cloud), add the domain to Claude's network whitelist, **configure with your token in the skill file**, and import the skill!
 - **[01/14/2026]** **SimpleMem MCP Server is now LIVE and Open Source!** 🎉 Experience SimpleMem as a cloud-hosted memory service at [mcp.simplemem.cloud](https://mcp.simplemem.cloud). Easily integrate with your favorite chat platforms (LM Studio, Cherry Studio) and AI agents (Cursor, Claude Desktop) using the **Streamable HTTP** MCP protocol. The MCP implementation features production-ready optimizations including multi-tenant user isolation, faster response times, and enhanced security. [View MCP Documentation →](MCP/README.md)
